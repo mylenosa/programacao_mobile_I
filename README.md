@@ -1,6 +1,6 @@
-# aula211024my
+# motivacionaltips
 
-A new Flutter project.
+A new Flutter project by Mylena Viana Nunes.
 
 ## Getting Started
 
