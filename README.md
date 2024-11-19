@@ -31,9 +31,8 @@ Apresentar ao aluno técnicas de desenvolvimento de aplicações para dispositiv
 
 ## **Principais Referências**
 
-- ![Livro 1](assets/livro1.jpg)  
-- ![Livro 2](assets/livro2.jpg)  
-- ![Livro 3](assets/livro3.jpg)  
+![Livro 1](assets/livro1.jpg) ![Livro 2](assets/livro2.jpg)  
+![Livro 3](assets/livro3.jpg)  
 
 ---
 
