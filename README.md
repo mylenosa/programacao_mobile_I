@@ -1,8 +1,8 @@
 # **Programação Mobile I**
 
-![Programação Mobile I](assets\titulo1.jpg)
+![Programação Mobile I](assets/titulo1.jpg)
 
-Este repositório contém materiais, exercícios e projetos da disciplina *Programação Mobile I, parte do curso de **Análise e Desenvolvimento de Sistemas** (ADS) do **IFRO**. A disciplina é oferecida no **4º período** do curso, no ano de **2024**, e tem como professor **Andrey Alencar Quadros**.
+Este repositório contém materiais, exercícios e projetos da disciplina **Programação Mobile I**, parte do curso de **Análise e Desenvolvimento de Sistemas** (ADS) do **IFRO**. A disciplina é oferecida no **4º período** do curso, no ano de **2024**, e tem como professor **Andrey Alencar Quadros**.
 
 ---
 
@@ -31,9 +31,9 @@ Apresentar ao aluno técnicas de desenvolvimento de aplicações para dispositiv
 
 ## **Principais Referências**
 
-- ![Livro 1](assets\livro1.jpg)  
-- ![Livro 2](assets\livro2.jpg)  
-- ![Livro 3](assets\livro3.jpg)  
+- ![Livro 1](assets/livro1.jpg)  
+- ![Livro 2](assets/livro2.jpg)  
+- ![Livro 3](assets/livro3.jpg)  
 
 ---
 
